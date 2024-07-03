@@ -4,8 +4,8 @@ Legends of Valor
 Legends Of Valor Game
 
 Project submitted by 
-Harshitha Tumkur Kailasa Murthy (harshutk@bu.edu) - U00683580  and 
 Aishwarya Reddy Lachangar(lareddy@bu.edu) - U62138442
+Harshitha Tumkur Kailasa Murthy (harshutk@bu.edu) - U00683580
 
 Bonus
 ------------------------------------------------------------------------------------------------
